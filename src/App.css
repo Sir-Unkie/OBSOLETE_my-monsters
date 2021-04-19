@@ -41,7 +41,7 @@ h1 {
   font-size: 72px;
   /* color: #0ccac4; */
   color: #0c0fca;
-  //this is a comment added after pulling the file from the remote repo
+  /*this is a comment added after pulling the file from the remote repo*/
 }
 
 @keyframes App-logo-spin {
